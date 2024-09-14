@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+my student number is 202434674 and My name is Chae Hwi Woon
+
 <!--
 **chw1115/chw1115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
